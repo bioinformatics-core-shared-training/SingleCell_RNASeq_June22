@@ -1,6 +1,6 @@
 # Introduction to single-cell RNA-seq data analysis
 
-### 4, 11, 18 Feb 2022, 09:30 - 17:30
+### 17, 24, June, 1 July 2022, 09:30 - 17:30
 #### Taught remotely (zoom link provided by email)
 #### Bioinformatics Training Facility, University of Cambridge
 
@@ -13,6 +13,7 @@
 * Hugo Tavares - Bioinformatics Training Facility, University of Cambridge
 * Katarzyna Kania - Genomics Core, Cancer Research UK Cambridge Institute
 * Stephane Ballereau - Cellular Genetics programme, Wellcome Sanger Institute
+* Roderik Kortlever - Dept. Biochemistry, University of Cambridge
 
 **Helpers:**
 
