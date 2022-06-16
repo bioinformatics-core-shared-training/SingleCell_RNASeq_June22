@@ -21,7 +21,7 @@ Then, **to update the submodule on this repository** (so that the lastest change
 - Pull/update the submodule, add, commit and push: 
     ```bash
     git submodule update --remote --merge UnivCambridge_ScRnaSeqIntro_Base
-    git add bioinformatics-core-shared-training/UnivCambridge_ScRnaSeqIntro_Base
+    git add UnivCambridge_ScRnaSeqIntro_Base
     git commit -m "update base submodule"
     git push
     ```
