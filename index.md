@@ -74,6 +74,7 @@ Please not that we may adjust these times as the pace of the course requires.
     + [Alignment with Cell Ranger](UnivCambridge_ScRnaSeqIntro_Base/Markdowns/03_CellRanger.html)
 * 12:30 - 13:30 **lunch break**
 * 13:30 - 14:00 **Loupe browser demo** - Roderik Kortlever
+  + [Slides](UnivCambridge_ScRnaSeqIntro_Base/Slides/03.1_LoupeBrowserDemo.pdf)
 * 14:00 - 17:30 **QC and exploratory analysis** - Chandra Chilamakuri
     + [Slides](UnivCambridge_ScRnaSeqIntro_Base/Slides/04_QualityControlSlides.html) \([pdf](UnivCambridge_ScRnaSeqIntro_Base/Slides/04_QualityControlSlides.pdf)\)
     + [QC and preprocessing](UnivCambridge_ScRnaSeqIntro_Base/Markdowns/04_Preprocessing_And_QC.html)
