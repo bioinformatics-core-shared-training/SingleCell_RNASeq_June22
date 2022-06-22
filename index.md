@@ -91,10 +91,11 @@ Please not that we may adjust these times as the pace of the course requires.
 * 12:30 - 13:30 **lunch break**
 * 13:30 - 15:25 **Feature selection and dimensionality reduction** - Chandra Chilamakuri
     + [Slides](UnivCambridge_ScRnaSeqIntro_Base/Slides/06_FeatureSelectionAndDimensionalityReduction_slides.html)
-    + R script for practical in `Exercises/06_DimensionalityReduction_worksheet.R` (you can also download it [here](https://github.com/bioinformatics-core-shared-training/UnivCambridge_ScRnaSeqIntro_Base/blob/87c654f73aa47d258f39a9c42d1563c4e51ddcd3/CourseMaterials/Exercises/06_DimensionalityReduction_worksheet.R))
+    + [Practical](UnivCambridge_ScRnaSeqIntro_Base/Markdowns/06_FeatureSelectionAndDimensionalityReduction.html)
+        + R script for practical in `Exercises/06_DimensionalityReduction_worksheet.R` (you can also download it [here](UnivCambridge_ScRnaSeqIntro_Base/CourseMaterials/Exercises/06_DimensionalityReduction_worksheet.R))
 <!-- + [Materials](UnivCambridge_ScRnaSeqIntro_Base/Markdowns/06_FeatureSelectionAndDimensionalityReduction.html) -->
 * 15:25 - 15:35 10 min **break**
-* 15:35 - 17:30 **Batch correction and data set integration** - Stephane Ballereau 
+* 15:35 - 17:30 **Batch correction and data set integration** - Hugo Tavares
     + [Slides](UnivCambridge_ScRnaSeqIntro_Base/Slides/07_DataIntegrationAndBatchCorrectionSlides.html)  
     + [Practical](UnivCambridge_ScRnaSeqIntro_Base/Markdowns/07_DatasetIntegration.html) 
 <!-- + [Solutions](UnivCambridge_ScRnaSeqIntro_Base/Markdowns/07_DataIntegrationChallengeSolution.html) -->
@@ -110,10 +111,11 @@ Please not that we may adjust these times as the pace of the course requires.
 <!-- + [Exercise Solutions](UnivCambridge_ScRnaSeqIntro_Base/Markdowns/08_ClusteringPostDsi_exercise_solutions.html) -->
 * 11:05 - 11:15 10 min **break** 
 * 11:15 - 12:30 **Identification of cluster marker genes** - Hugo Tavares
+<!--
     + [Slides](UnivCambridge_ScRnaSeqIntro_Base/Slides/09_ClusterMarkerGenes.html)
-    + R script for practical in `Exercises/09_ClusterMarkerGenes.R` (you can also download it [here](https://github.com/bioinformatics-core-shared-training/UnivCambridge_ScRnaSeqIntro_Base/blob/87c654f73aa47d258f39a9c42d1563c4e51ddcd3/CourseMaterials/Exercises/09_ClusterMarkerGenes.R))
-<!-- + [Cluster marker genes](UnivCambridge_ScRnaSeqIntro_Base/Markdowns/09_ClusterMarkerGenes.html) -->
-<!-- + Worksheet in `Exercises/09_ClusterMarkerGenes.R` -->
+    + [Practical](UnivCambridge_ScRnaSeqIntro_Base/Markdowns/09_ClusterMarkerGenes.html)
+        + R script for practical in `Exercises/09_ClusterMarkerGenes.R` (you can also download it [here](UnivCambridge_ScRnaSeqIntro_Base/CourseMaterials/Exercises/09_ClusterMarkerGenes.R))
+-->
 * 12:30 - 13:30 **lunch break**
 * 13:30 - 15:25 **Differential expression between conditions** - Abigail Edwards
     + [Slides](UnivCambridge_ScRnaSeqIntro_Base/Slides/10_MultiSplCompSlides.html)
