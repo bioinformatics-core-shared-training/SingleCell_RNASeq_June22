@@ -109,7 +109,7 @@ Please not that we may adjust these times as the pace of the course requires.
 <!-- + [Exercise1](UnivCambridge_ScRnaSeqIntro_Base/Markdowns/08_ClusteringPostDsi_exercise.Rmd) -->
 <!-- + [Exercise Solutions](UnivCambridge_ScRnaSeqIntro_Base/Markdowns/08_ClusteringPostDsi_exercise_solutions.html) -->
 * 11:05 - 11:15 10 min **break** 
-* 11:15 - 12:30 **Identification of cluster marker genes** - Stephane Ballereau
+* 11:15 - 12:30 **Identification of cluster marker genes** - Hugo Tavares
     + [Slides](UnivCambridge_ScRnaSeqIntro_Base/Slides/09_ClusterMarkerGenes.html)
     + R script for practical in `Exercises/09_ClusterMarkerGenes.R` (you can also download it [here](https://github.com/bioinformatics-core-shared-training/UnivCambridge_ScRnaSeqIntro_Base/blob/87c654f73aa47d258f39a9c42d1563c4e51ddcd3/CourseMaterials/Exercises/09_ClusterMarkerGenes.R))
 <!-- + [Cluster marker genes](UnivCambridge_ScRnaSeqIntro_Base/Markdowns/09_ClusterMarkerGenes.html) -->
