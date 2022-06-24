@@ -98,6 +98,7 @@ Please not that we may adjust these times as the pace of the course requires.
 * 15:35 - 17:30 **Batch correction and data set integration** - Hugo Tavares
     + [Slides](UnivCambridge_ScRnaSeqIntro_Base/Slides/07_DataIntegrationAndBatchCorrectionSlides.html)  
     + [Practical](UnivCambridge_ScRnaSeqIntro_Base/Markdowns/07_DatasetIntegration.html) 
+        + R script for practical in `Exercises/07_DatasetIntegration_worksheet.R` (you can also download it [here](UnivCambridge_ScRnaSeqIntro_Base/CourseMaterials/Exercises/07_DatasetIntegration_worksheet.R))
 <!-- + [Solutions](UnivCambridge_ScRnaSeqIntro_Base/Markdowns/07_DataIntegrationChallengeSolution.html) -->
 <!-- + [Batch Correction extended example](UnivCambridge_ScRnaSeqIntro_Base/Markdowns/07_BatchCorrection.html) -->
     
@@ -111,11 +112,10 @@ Please not that we may adjust these times as the pace of the course requires.
 <!-- + [Exercise Solutions](UnivCambridge_ScRnaSeqIntro_Base/Markdowns/08_ClusteringPostDsi_exercise_solutions.html) -->
 * 11:05 - 11:15 10 min **break** 
 * 11:15 - 12:30 **Identification of cluster marker genes** - Hugo Tavares
-<!--
-    + [Slides](UnivCambridge_ScRnaSeqIntro_Base/Slides/09_ClusterMarkerGenes.html)
-    + [Practical](UnivCambridge_ScRnaSeqIntro_Base/Markdowns/09_ClusterMarkerGenes.html)
-        + R script for practical in `Exercises/09_ClusterMarkerGenes.R` (you can also download it [here](UnivCambridge_ScRnaSeqIntro_Base/CourseMaterials/Exercises/09_ClusterMarkerGenes.R))
--->
+<!--    + [Slides](UnivCambridge_ScRnaSeqIntro_Base/Slides/09_ClusterMarkerGenes.html) -->
+<!--    + [Practical](UnivCambridge_ScRnaSeqIntro_Base/Markdowns/09_ClusterMarkerGenes.html) -->
+<!--        + R script for practical in `Exercises/09_ClusterMarkerGenes.R` (you can also download it [here](UnivCambridge_ScRnaSeqIntro_Base/CourseMaterials/Exercises/09_ClusterMarkerGenes.R)) -->
+
 * 12:30 - 13:30 **lunch break**
 * 13:30 - 15:25 **Differential expression between conditions** - Abigail Edwards
     + [Slides](UnivCambridge_ScRnaSeqIntro_Base/Slides/10_MultiSplCompSlides.html)
