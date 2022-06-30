@@ -104,12 +104,12 @@ Please not that we may adjust these times as the pace of the course requires.
     
 ### Day 3
 
-* 09:30 - 09:40 Recap <!-- Stephane -->
+* 09:30 - 09:40 Recap 
 * 09:40 - 11:05 **Clustering** - Ashley Sawle
     + [Slides](UnivCambridge_ScRnaSeqIntro_Base/Slides/08_ClusteringSlides.html)
-<!-- + [Practical](UnivCambridge_ScRnaSeqIntro_Base/Markdowns/08_ClusteringPostDsi.html) -->
-<!-- + [Exercise1](UnivCambridge_ScRnaSeqIntro_Base/Markdowns/08_ClusteringPostDsi_exercise.Rmd) -->
-<!-- + [Exercise Solutions](UnivCambridge_ScRnaSeqIntro_Base/Markdowns/08_ClusteringPostDsi_exercise_solutions.html) -->
+    + [Practical](UnivCambridge_ScRnaSeqIntro_Base/Markdowns/08_Clustering_Materials.html) -->
+        + R script for practical in `Exercises/08_Clustering_Worksheet.R` (you can also download it [here](UnivCambridge_ScRnaSeqIntro_Base/CourseMaterials/Exercises/08_Clustering_Worksheet.R))
+
 * 11:05 - 11:15 10 min **break** 
 * 11:15 - 12:30 **Identification of cluster marker genes** - Hugo Tavares
 <!--    + [Slides](UnivCambridge_ScRnaSeqIntro_Base/Slides/09_ClusterMarkerGenes.html) -->
