@@ -119,12 +119,11 @@ Please not that we may adjust these times as the pace of the course requires.
 * 12:30 - 13:30 **lunch break**
 * 13:30 - 15:25 **Differential expression between conditions** - Abigail Edwards
     + [Slides](UnivCambridge_ScRnaSeqIntro_Base/Slides/10_MultiSplCompSlides.html)
-<!-- + [Practical](UnivCambridge_ScRnaSeqIntro_Base/Markdowns/10_MultiSplComp.html) -->
-<!-- + [Exercise1](UnivCambridge_ScRnaSeqIntro_Base/Markdowns/10_MultiSplComp_exercise1.Rmd) -->
+    + [Practical](UnivCambridge_ScRnaSeqIntro_Base/Markdowns/10_MultiSplComp.html)
+    + [Exercise1](UnivCambridge_ScRnaSeqIntro_Base/Markdowns/10_MultiSplComp_exercise1.Rmd) 
 <!-- + [Exercise1 Solutions](UnivCambridge_ScRnaSeqIntro_Base/Markdowns/10_MultiSplComp_exercise1_solutions.html) -->
 * 15:25 - 15:35 10 min **break** 
 * 15:35 - 17:30 **Differential abundance between conditions** - Abigail Edwards
     + [Slides](UnivCambridge_ScRnaSeqIntro_Base/Slides/10_MultiSplCompSlides.html)
-<!-- + [Practical](UnivCambridge_ScRnaSeqIntro_Base/Markdowns/10_MultiSplComp.html) -->
-<!-- + [Exercise2](UnivCambridge_ScRnaSeqIntro_Base/Markdowns/10_MultiSplComp_exercise2.Rmd) -->
-<!-- + [Exercise2 Solutions](UnivCambridge_ScRnaSeqIntro_Base/Markdowns/10_MultiSplComp_exercise2_solutions.html) -->
+    + [Practical](UnivCambridge_ScRnaSeqIntro_Base/Markdowns/10_MultiSplComp.html)
+
