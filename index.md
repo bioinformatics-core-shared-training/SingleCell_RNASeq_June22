@@ -82,7 +82,8 @@ Please not that we may adjust these times as the pace of the course requires.
 
 ### Day 2
 
-* 09:30 - 09:40 Recap <!-- Stephane -->
+* 09:30 - 09:40 Recap
+    + [Recap Whiteboard](https://jamboard.google.com/d/17oSffZXYreMSemPXOmA81H26KXyfJoVfrUHlGEpbN3I/edit?usp=sharing)
 * 09:40 - 12:30 **Normalisation** - Stephane Ballereau
     + [Slides](UnivCambridge_ScRnaSeqIntro_Base/Slides/05_NormalisationSlides.html) <!-- \([pdf](scRNAseq/Slides/05_normalisationSlides.pdf)\) -->
     + [Practical](UnivCambridge_ScRnaSeqIntro_Base/Markdowns/05_Normalisation.html)    
@@ -105,6 +106,7 @@ Please not that we may adjust these times as the pace of the course requires.
 ### Day 3
 
 * 09:30 - 09:40 Recap 
+    + [Recap Whiteboard](https://jamboard.google.com/d/17oSffZXYreMSemPXOmA81H26KXyfJoVfrUHlGEpbN3I/edit?usp=sharing) 
 * 09:40 - 11:05 **Clustering** - Ashley Sawle
     + [Slides](UnivCambridge_ScRnaSeqIntro_Base/Slides/08_ClusteringSlides.html)
     + [Practical](UnivCambridge_ScRnaSeqIntro_Base/Markdowns/08_Clustering_Materials.html) -->
